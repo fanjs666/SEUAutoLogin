@@ -38,6 +38,9 @@ beautifulsoup4~=4.9.3
 pip install -r requirements.txt
 ```
 
+
+
+
 ## 📐功能说明（本地部署）
 
 **请先在`config.json`中填写好一卡通号和密码**
